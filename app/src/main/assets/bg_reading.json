@@ -1,0 +1,22 @@
+{
+  "data": [{
+    "SugarID": 11066,
+    "DateTime": "2018-06-08T13:35:00",
+    "Reading": 77.00,
+    "ReadingType": "Fasting",
+    "Note": ""
+  }, {
+    "SugarID": 11067,
+    "DateTime": "2018-06-05T13:35:00",
+    "Reading": 48.00,
+    "ReadingType": "Random",
+    "Note": ""
+  }, {
+    "SugarID": 11069,
+    "DateTime": "2018-06-03T13:36:00",
+    "Reading": 195.00,
+    "ReadingType": "Random",
+    "Note": ""
+  }],
+  "status": 0
+}
